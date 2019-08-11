@@ -25,6 +25,10 @@ silver                                            (tconstruct:molten_silver)    
 electrum                                          (tconstruct:molten_electrum)                                                     = Molten Electrum
 steel                                             (tconstruct:molten_steel)                                                        = Molten Steel
 aluminum                                          (tconstruct:molten_aluminum)                                                     = Molten Aluminum
+canolaoil                                         (actuallyadditions:block_canola_oil)                                             = Canola Oil
+refinedcanolaoil                                  (actuallyadditions:block_refined_canola_oil)                                     = Refined Canola Oil
+crystaloil                                        (actuallyadditions:block_crystal_oil)                                            = Crystallized Oil
+empoweredoil                                      (actuallyadditions:block_empowered_oil)                                          = Empowered Oil
 bio.ethanol                                       (forestry:fluid.bio.ethanol)                                                     = Ethanol
 biomass                                           (forestry:fluid.biomass)                                                         = Biomass
 glass                                             (forestry:fluid.glass)                                                           = Liquid Glass
