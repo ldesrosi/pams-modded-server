@@ -1,0 +1,6 @@
+minecraft*.jar
+forge*.jar
+*.log
+eula.txt
+logs/
+journeymap/
